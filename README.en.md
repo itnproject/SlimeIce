@@ -4,6 +4,10 @@
 <h1 align="center">Slime Ice</h1>
 <p align="center"><p align="center">MD3 style Android Music Player</p>
 
+<p align="center">
+  <a href="./README.md">简体中文</a> | <a href="./README.en.md">English</a>
+</p>
+
 > Slime Ice is an Android music player app focused on aesthetics, written in Flutter. Since it is the first Android app developed using Flutter by itnproject, if bugs occur, you can submit issues to report them. Your submissions are the greatest help in fixing bugs!
 
 # Project Introduction
