@@ -5,6 +5,12 @@
 <p align="center"><p align="center">MD3风格安卓音乐播放器</p>
 
 <p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flutter-Language-brightgreen?style=flat&logo=Flutter&logoSize=auto&label=Flutter&color=%2302569B">
+<img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-IDE-brightgreen?style=flat&logo=androidstudio&logoSize=auto&color=%233DDC84">
+
+</p>
+
+<p align="center">
   <a href="./README.md">简体中文</a> | <a href="./README.en.md">English</a>
 </p>
 
