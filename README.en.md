@@ -12,6 +12,7 @@
   * Colors adapt to the music dynamically
   * Features MD3 style
   * Strong performance with Flutter
+  * Smaller volume
 * Supported languages: Simplified Chinese and English
 
 # Project Help
