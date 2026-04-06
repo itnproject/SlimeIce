@@ -41,4 +41,4 @@
 如果我忘记把你的名添加到贡献名单中，请联系我。 
 
 # 项目许可
-GNU Affero General Public License v3
+`GNU Affero General Public License v3`
