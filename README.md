@@ -8,7 +8,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-Language-brightgreen?style=flat&logo=Flutter&logoSize=auto&label=Flutter&color=%2302569B">
 <img alt="Static Badge" src="https://img.shields.io/badge/Dart-Language-brightgreen?style=flat&logo=Dart&color=%230175C2">
 <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-IDE-brightgreen?style=flat&logo=androidstudio&logoSize=auto&color=%233DDC84">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Android-terrace-brightgreen?style=flat&logo=android&color=%233DDC84">
 </p>
 
 <p align="center">
