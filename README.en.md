@@ -40,4 +40,4 @@ Any correct translation contributions are very welcome!
 If I forget to add your name to the list of contributors, please contact me.
 
 # Project License
-GNU Affero General Public License v3
+`GNU Affero General Public License v3`
