@@ -20,6 +20,7 @@
 * What it is: An Android music player for users, written in Flutter, with a focus on aesthetics.
 * What makes it different:
   * Colors adapt to the music dynamically
+  * Dynamically pick colors based on the theme
   * Features MD3 style
   * Strong performance with Flutter
   * Smaller volume
