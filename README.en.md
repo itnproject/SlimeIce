@@ -34,10 +34,5 @@ Answer: Submit Issues. It’s best to include screenshots and a complete descrip
 > [!TIP]
 > Do not submit ridiculously absurd questions as Issues to avoid being laughed at 😂
 
-# Translation Contributions
-Any correct translation contributions are very welcome!
-
-If I forget to add your name to the list of contributors, please contact me.
-
 # Project License
 `GNU Affero General Public License v3`
