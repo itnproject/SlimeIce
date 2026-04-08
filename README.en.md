@@ -28,7 +28,7 @@
 
 # Project Help
 #### Why can't my Android device install/open it?
-Answer: Slime Ice supports Android 11 at minimum.
+Answer: Slime Ice supports Android12 at minimum.
 #### How do I report problems when using it?
 Answer: Submit Issues. It’s best to include screenshots and a complete description.
 
